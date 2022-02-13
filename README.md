@@ -1,3 +1,3 @@
 # PORTFOLIO-ROSHAN XAVIER
-A PORTFOLIO CREATED USING REACT JS , BOOTSTRAP , CSS . It is made responsive dektop and mobile. 
+A PORTFOLIO CREATED USING REACT JS , BOOTSTRAP , CSS . It is made responsive dektop and mobile. IT MIGHT TAKE SOME TIME TO LOAD
 YOU CAN VIEW THE PORTFOLIO HERE : https://portfolio-rx.herokuapp.com/
