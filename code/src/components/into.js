@@ -24,7 +24,7 @@ function intro() {
                   </div>
                 </div>
             </div>
-            <div className='description'>Mernstack Developer , worked as intern at crowdoveflow . Completed BTECH degree in IT from Rajagairi School Of Engineering And Technology. I am an enthusiastic learner and enjoys working as a team .Know more about me from the below given links.</div>
+            <div className='description'>Mernstack Developer , worked as an intern at crowdoveflow Ltd . Completed BTECH degree in IT from Rajagiri School Of Engineering And Technology. I am an enthusiastic learner and enjoys working as a team .Know more about me from the below given links.</div>
             <div>
                 <a href="c.htm"><img src={Linked} alt='' className='links' onClick={()=>{window.open("https://www.linkedin.com/in/roshan-xavier-1ab097214/")}}/></a>
                 <a href="g.htm"><img src={Git} alt='' className='links' onClick={()=>{window.open("https://github.com/ROSHANXAVIER")}}/></a>
